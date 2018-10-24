@@ -1,0 +1,7 @@
+{
+  "name": "ngoApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
